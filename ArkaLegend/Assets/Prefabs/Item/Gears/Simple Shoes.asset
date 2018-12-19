@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31f5f5a9b0ead6a4ab81973ad67b2df1, type: 3}
+  m_Name: Simple Shoes
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300002, guid: 8fbadbdaba905ff40828c29bbe5ef72d, type: 3}
+  stackSize: 0
+  title: Simple Shoes
+  quality: 1
+  armorType: 5
+  strength: 2
+  intellect: 1
+  vitality: 1
+  animationClips:
+  - {fileID: 7400000, guid: 76e9dfec52ed76f4e9f1a19ee97abf7b, type: 2}
+  - {fileID: 7400000, guid: 6007c57ca73bd5344a0ce20b445eefb3, type: 2}
+  - {fileID: 7400000, guid: 084aca93cb76d1e4b835b693daa6c883, type: 2}
+  - {fileID: 7400000, guid: b1b4ff0371b3b9e478e35220dbf75955, type: 2}
+  - {fileID: 7400000, guid: a8a5aa587568ef241922c572571c679e, type: 2}
+  - {fileID: 7400000, guid: d84c128043bd64b4f9f770d4e3e0b24d, type: 2}
+  - {fileID: 7400000, guid: ce37c1c52be8d28499c69a8cbcdfb830, type: 2}
+  - {fileID: 7400000, guid: 625bd04c1e3668942bac6dd4c721c836, type: 2}
+  - {fileID: 7400000, guid: fe011166b5b6c3c40a91f0d5e5af19a7, type: 2}
+  - {fileID: 7400000, guid: 32178d7d58e1353438c014bc1b27cc9f, type: 2}
+  - {fileID: 7400000, guid: 070132184c08fcb4491e0f7a30e45359, type: 2}
+  - {fileID: 7400000, guid: 253c33111df1c92478c37c56b46b638d, type: 2}
+  - {fileID: 7400000, guid: f84969dc207bfda4cbdf5e7badaa2222, type: 2}
+  - {fileID: 7400000, guid: ba25142ac672ac64e97cd22f5a1cb89c, type: 2}
+  - {fileID: 7400000, guid: d190b3ac2f633744c98a6753806b3982, type: 2}
+  - {fileID: 7400000, guid: 623de00bb95142d4782985b3561c9fac, type: 2}
+  - {fileID: 7400000, guid: 565bc863149f9b04ba5a56d651720120, type: 2}
+  - {fileID: 7400000, guid: 7958e1933e66ca240abd46012a2dc15a, type: 2}
+  - {fileID: 7400000, guid: 0e6218975f9264d45ae121eb38d7d062, type: 2}
+  - {fileID: 7400000, guid: 1bb480c91e6fbbd439d0bac1a46e17f1, type: 2}
+  - {fileID: 7400000, guid: 03f17b8282fe2e142a4edc036ef48f3d, type: 2}
+  - {fileID: 7400000, guid: d49ad966d9bece049a9e6d2235c83bb1, type: 2}
+  - {fileID: 7400000, guid: 211bb56bdf2c0aa4fba2c7b08d1e2479, type: 2}
+  - {fileID: 7400000, guid: f085b0ed945420d4bab8d38e4cb5a68a, type: 2}

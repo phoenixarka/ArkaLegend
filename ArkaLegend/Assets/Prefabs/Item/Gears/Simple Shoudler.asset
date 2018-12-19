@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31f5f5a9b0ead6a4ab81973ad67b2df1, type: 3}
+  m_Name: Simple Shoudler
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300018, guid: 8fbadbdaba905ff40828c29bbe5ef72d, type: 3}
+  stackSize: 0
+  title: Simple Shoudler
+  quality: 1
+  armorType: 1
+  strength: 2
+  intellect: 2
+  vitality: 3
+  animationClips:
+  - {fileID: 7400000, guid: 5baf2eafecfb34c4690659b85642840d, type: 2}
+  - {fileID: 7400000, guid: 96d50a3e5fd2b354295a93eddc3a71af, type: 2}
+  - {fileID: 7400000, guid: b392f7e8b671b48439f3f50c72417a98, type: 2}
+  - {fileID: 7400000, guid: f9e0294aef47bf441ab8bc614091c615, type: 2}
+  - {fileID: 7400000, guid: fe2b7036ac0b5824dbdbb61ec260d567, type: 2}
+  - {fileID: 7400000, guid: a376aeddb1d079a40ae75b68f7705171, type: 2}
+  - {fileID: 7400000, guid: 446e9fc015d51cd46ba7adfd5368a211, type: 2}
+  - {fileID: 7400000, guid: a9ce7f1a14bea1f45ae052b6d787cde8, type: 2}
+  - {fileID: 7400000, guid: 812cf8c3317201843991bac160ba6aad, type: 2}
+  - {fileID: 7400000, guid: ebfd1f97603bac24ea7a570007840468, type: 2}
+  - {fileID: 7400000, guid: 00a1a80526e0cb546b0181d76f41404c, type: 2}
+  - {fileID: 7400000, guid: d1fc21824cf77e54281b4c9b0c44d4b0, type: 2}
+  - {fileID: 7400000, guid: b9cb62c663e86774193a41fdcb9db33b, type: 2}
+  - {fileID: 7400000, guid: cbe9f5593c4a15046b3785938ef9dd80, type: 2}
+  - {fileID: 7400000, guid: 7ad2eeed0950ce64f8e416c406fdbea1, type: 2}
+  - {fileID: 7400000, guid: 39f3c5be242a6474bae3226b49bbf75e, type: 2}
+  - {fileID: 7400000, guid: 9c063a9ede09191438b26066f8a891d7, type: 2}
+  - {fileID: 7400000, guid: d6285f21f11ac6d4f89c1c06ee49733f, type: 2}
+  - {fileID: 7400000, guid: bf7c51fc4d15e1d46bdb8ee991af46d4, type: 2}
+  - {fileID: 7400000, guid: 0cd9acf0c138d6943bef5e0efc5313bb, type: 2}
+  - {fileID: 7400000, guid: 6b07adbd8d09fc240976258457ecbde1, type: 2}
+  - {fileID: 7400000, guid: 78d392626a54147449eaa8ccec475ffd, type: 2}
+  - {fileID: 7400000, guid: 037fad3d6f0ce834f8e22acba32fb4c0, type: 2}
+  - {fileID: 7400000, guid: 1ad7d208675266d41bf9fe54ee55cc61, type: 2}

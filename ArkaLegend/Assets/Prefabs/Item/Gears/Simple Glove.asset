@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31f5f5a9b0ead6a4ab81973ad67b2df1, type: 3}
+  m_Name: Simple Glove
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300012, guid: 8fbadbdaba905ff40828c29bbe5ef72d, type: 3}
+  stackSize: 0
+  title: Simple Glove
+  quality: 1
+  armorType: 4
+  strength: 2
+  intellect: 2
+  vitality: 1
+  animationClips:
+  - {fileID: 7400000, guid: 483023853b31080498903191b3aa7d2a, type: 2}
+  - {fileID: 7400000, guid: 3127dc7bb13527c4d8e32eb5a2f3f4c6, type: 2}
+  - {fileID: 7400000, guid: 30b6c754ed71da24caff0bd2a28dab2a, type: 2}
+  - {fileID: 7400000, guid: 9101f31dcb8a729498262c9f4a74be18, type: 2}
+  - {fileID: 7400000, guid: 3fd9aabd95c0bb14486f7e7126065765, type: 2}
+  - {fileID: 7400000, guid: 1597a7be1c82a414bb02c7ff1184e130, type: 2}
+  - {fileID: 7400000, guid: 910c14d30fd252342ab2fca745cd9061, type: 2}
+  - {fileID: 7400000, guid: eec01762323dede4390d4f8f421baeb9, type: 2}
+  - {fileID: 7400000, guid: c72d1fe34b5cdbe4c80447daadfb158b, type: 2}
+  - {fileID: 7400000, guid: 62f0b1f01c51094409b4fc54a994209e, type: 2}
+  - {fileID: 7400000, guid: 90cb6eb8c8999cc43af44e3a6b69e3f6, type: 2}
+  - {fileID: 7400000, guid: 83f1e8ecadea0ab40809b6fa0aef4b5e, type: 2}
+  - {fileID: 7400000, guid: ed7251cc06dc72e45a97d1b8e0d59bcc, type: 2}
+  - {fileID: 7400000, guid: 16b87aba79cd67842a5097517f99809b, type: 2}
+  - {fileID: 7400000, guid: 2d34a671b85c87242b12cadced357fda, type: 2}
+  - {fileID: 7400000, guid: f7c5cbbbd4d63d748888b9014b5313d0, type: 2}
+  - {fileID: 7400000, guid: 9f48ddaa70a31864e84b2b02a41fbdcd, type: 2}
+  - {fileID: 7400000, guid: b796fba1a761b8b4da53402abdf04e6f, type: 2}
+  - {fileID: 7400000, guid: af08e901e5f93b94c95b05e30d5980f2, type: 2}
+  - {fileID: 7400000, guid: e04b24e3cca47e744aa9451aa626af7f, type: 2}
+  - {fileID: 7400000, guid: 568aa9c4d5552d04794a94db81d9d52d, type: 2}
+  - {fileID: 7400000, guid: ef83516afeb2cf7489591e38472ad50d, type: 2}
+  - {fileID: 7400000, guid: a4a001664c3b8be42bc090cd594dd66b, type: 2}
+  - {fileID: 7400000, guid: 505c4f68dfa1e1b42b81a0c4f3cbed8e, type: 2}
